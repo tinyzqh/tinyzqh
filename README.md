@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @tinyzqh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=tinyzqh&column=7)](https://github.com/tinyzqh)
 
-<!---
-tinyzqh/tinyzqh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyzqh&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinyzqh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
