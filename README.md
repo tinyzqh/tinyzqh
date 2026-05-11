@@ -51,7 +51,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyzqh&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&title_color=7EDDCF&icon_color=7EDDCF" height="165"/>
+  <img align="center" src="./github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+<p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=tinyzqh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" height="165"/>
 </p>
 

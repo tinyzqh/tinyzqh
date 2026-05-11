@@ -1,0 +1,34 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: [".github/workflows/metrics.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # METRICS_TOKEN: optional PAT (classic) with `repo` + `read:org` scope to include private contributions.
+          # If not set, falls back to GITHUB_TOKEN (public data only).
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: tinyzqh
+          template: classic
+          base: header, activity, repositories
+          config_timezone: Asia/Tokyo
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, jupyter notebook
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
