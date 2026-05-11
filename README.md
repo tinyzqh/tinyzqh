@@ -9,6 +9,7 @@
   <a href="mailto:tinyzqh@gmail.com"><img src="https://img.shields.io/badge/Email-tinyzqh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://scholar.google.com.hk/citations?user=v6o0Dz8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
   <a href="https://www.zhihu.com/people/zhiqianghe"><img src="https://img.shields.io/badge/Zhihu-知乎-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
+  <a href="https://gitstar-ranking.com/tinyzqh"><img src="https://img.shields.io/badge/GitHub%20Rank-Top%200.02%25-7EDDCF?style=flat-square&logo=github&logoColor=white" alt="GitHub Rank"/></a>
 </p>
 
 ---
@@ -50,6 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyzqh&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&title_color=7EDDCF&icon_color=7EDDCF" height="165"/>
   <img align="center" src="https://streak-stats.demolab.com/?user=tinyzqh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" height="165"/>
 </p>
 
