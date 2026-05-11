@@ -49,14 +49,6 @@
 
 ---
 
-### 📊 Contributions
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Contributions calendar"/>
-</p>
-
----
-
 ### 🏆 Trophies
 
 <p align="center">
