@@ -10,6 +10,7 @@
   <a href="https://scholar.google.com.hk/citations?user=v6o0Dz8AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
   <a href="https://www.zhihu.com/people/zhiqianghe"><img src="https://img.shields.io/badge/Zhihu-知乎-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"/></a>
   <a href="https://gitstar-ranking.com/tinyzqh"><img src="https://img.shields.io/badge/GitHub%20Rank-Top%200.02%25-7EDDCF?style=flat-square&logo=github&logoColor=white" alt="GitHub Rank"/></a>
+  <a href="https://github.com/tinyzqh"><img src="https://img.shields.io/badge/Total%20Stars-1.7K%2B-7EDDCF?style=flat-square&logo=github&logoColor=white" alt="Total Stars"/></a>
 </p>
 
 ---
@@ -48,14 +49,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Contributions
 
 <p align="center">
-  <img align="center" src="./github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=tinyzqh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" height="165"/>
+  <img src="./github-metrics.svg" alt="Contributions calendar"/>
 </p>
 
 ---

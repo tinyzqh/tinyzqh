@@ -15,23 +15,13 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          # METRICS_TOKEN: optional PAT (classic) with `repo` + `read:org` scope to include private contributions.
-          # If not set, falls back to GITHUB_TOKEN (public data only).
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: tinyzqh
           template: classic
-          base: header, activity
+          base: ""
           config_timezone: Asia/Tokyo
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, jupyter notebook
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_stargazers: yes
-          plugin_stargazers_days: 0
-          plugin_stargazers_charts_type: graph
